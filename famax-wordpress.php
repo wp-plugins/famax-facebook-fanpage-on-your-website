@@ -3,7 +3,7 @@
 /**
  * Plugin Name:		Famax-Fun
  * Description: 	Display your Facebook FanPage Posts on your website!
- * Version: 		1.0
+ * Version: 		1.1
  * Author: 			CodeHandling
  * Author URI: 		http://www.codehandling.com/
  */
