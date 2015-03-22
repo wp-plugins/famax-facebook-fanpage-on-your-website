@@ -37,6 +37,7 @@ Check the <a href="http://www.codehandling.com/2015/03/free-version-of-famax-wor
 == Screenshots ==
 
 1. Levis FanPage created with Famax
+2. Nike FanPage created with Famax
 
 == Changelog ==
 
