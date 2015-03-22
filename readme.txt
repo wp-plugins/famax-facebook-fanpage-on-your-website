@@ -36,8 +36,11 @@ Check the <a href="http://www.codehandling.com/2015/03/free-version-of-famax-wor
 
 == Screenshots ==
 
-1. Levis FanPage created with Famax
-2. Nike FanPage created with Famax
+1. Levis FanPage created with Famax (2-column layout)
+2. Nike FanPage created with Famax (2-column layout)
+3. Load More Posts
+4. Single Column Layout
+5. Multi Column Layout
 
 == Changelog ==
 
