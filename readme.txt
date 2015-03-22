@@ -1,4 +1,4 @@
-=== Famax: Facebook FanPage on your Website ===
+=== Famax ===
 Contributors: codehandling
 Donate link: http://codecanyon.net/item/famax-facebook-fanpage-albums-on-your-website/10429010
 Tags: facebook, embed, feed, posts, fanpage, page, facebook page
